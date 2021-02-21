@@ -9,6 +9,7 @@ import SwiftUI
 import MapKit
 
 　　//MapViewが指定されると実行される
+　　//ContentView.swift 41行目。
 struct MapView: UIViewRepresentable {
     // 検索キーワード
     let searchKey:String
